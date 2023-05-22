@@ -2,7 +2,8 @@
 <h3 align="center">A passionate programmer from Preston</h3>
 
 - 🔭 I’m currently working on [My Unity Game](https://github.com/elliot-brooks/unity-platformer)
-
+- 📖 I am currently studying at The University of Manchester
+- 🖥️ My favourite programming language is Java 🍵
 - 📫 How to reach me **elliot.brooks.03@gmail.com**
 
 - ⚡ Fun fact **I like gaming!**

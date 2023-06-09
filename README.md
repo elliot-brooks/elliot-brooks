@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elliot</h1>
 <h3 align="center">A passionate programmer from Preston</h3>
 
-- 🔭 I’m currently working on [My Unity Game](https://github.com/elliot-brooks/unity-platformer)
+- 🔭 I’m currently working at Arm
 - 📖 I am currently studying at The University of Manchester
 - 🖥️ My favourite programming language is Java 🍵
 - 📫 How to reach me **elliot.brooks.03@gmail.com**

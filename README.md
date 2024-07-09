@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Preston</h3>
 
 - 🔭 I’m currently working at Arm
-- 📖 I am currently studying at The University of Manchester
+- 📖 I studied at The University of Manchester (First class BSc Hons Computer Science)
 - 🖥️ My favourite programming language is Java 🍵
 - 📫 How to reach me **elliot.brooks.03@gmail.com**
 

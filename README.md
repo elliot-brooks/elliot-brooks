@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working at Arm<br><br>📖 I studied at The University of Manchester (First class BSc Hons Computer Science)<br><br>🖥️ My favourite programming language is Java 🍵<br><br>📫 How to reach me : <b>elliot.brooks.03@gmail.com</b> or <b>LinkedIn</b><br><br>⚡ Fun fact I like gaming!</p>
+<p align="left">🔭 I’m currently working at Arm<br><br>📖 I studied at The University of Manchester (First class BSc Hons Computer Science)<br><br>🖥️ My favourite programming language is Go 🍵<br><br>📫 How to reach me : <b>elliot.brooks.03@gmail.com</b> or <b>LinkedIn</b><br><br>⚡ Fun fact I like gaming!</p>
 
 ###
 

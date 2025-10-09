@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A passionate programmer from Preston 👨‍💻</h3>
+<h3 align="center">A programmer from Preston 👨‍💻</h3>
 
 ###
 

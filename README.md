@@ -27,8 +27,8 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo" href="https://www.instagram.com/elliotbrooks03"  />
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo" href="https://www.linkedin.com/in/elliot-brooks-1581ba21b" />
+    <a href="https://www.instagram.com/elliotbrooks03"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo"/></a>
+    <a href="https://www.linkedin.com/in/elliot-brooks-1581ba21b"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin logo"/></a>
 </div>
 
 ###

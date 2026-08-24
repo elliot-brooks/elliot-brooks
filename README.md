@@ -17,7 +17,7 @@
   <h4 align="left">Languages</h4>
   <img src="https://skillicons.dev/icons?i=go,cpp,c,py,java,typescript&theme=dark" alt="languages"  />
   <h4 align="left">Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,react&theme=dark" alt="technologies"  />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,react,obsidian&theme=dark" alt="technologies"  />
 </div>
 
 ###
